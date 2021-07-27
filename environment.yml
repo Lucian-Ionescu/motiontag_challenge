@@ -1,0 +1,14 @@
+name: motiontag-challenge
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - geopandas
+  - theme-darcula
+  - folium
+  - flask
+  - requests

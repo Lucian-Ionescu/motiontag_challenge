@@ -1,0 +1,12 @@
+DATA_ROOT = './data'
+FILE = 'waypoints.csv'
+
+MIN_TO_HOUR = 1/60
+M_TO_KM = 1/1000
+
+ACCURACY_VALID_BELOW = 46
+VELOCITY_VALID_BELOW = 50
+
+USE_MODEL = False
+
+CRS_BERLIN = 'epsg:3068'
